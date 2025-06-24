@@ -1,0 +1,542 @@
+[
+    {
+        "image_id": "IDRiD_01_MA",
+        "report": "18 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_02_MA",
+        "report": "41 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_03_MA",
+        "report": "63 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_04_MA",
+        "report": "Few microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_05_MA",
+        "report": "8 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_06_MA",
+        "report": "35 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_07_MA",
+        "report": "43 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_08_MA",
+        "report": "16 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_09_MA",
+        "report": "55 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_10_MA",
+        "report": "90 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_11_MA",
+        "report": "70 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_12_MA",
+        "report": "17 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_13_MA",
+        "report": "125 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_14_MA",
+        "report": "97 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_15_MA",
+        "report": "7 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_16_MA",
+        "report": "10 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_17_MA",
+        "report": "39 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_18_MA",
+        "report": "80 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_19_MA",
+        "report": "23 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_20_MA",
+        "report": "104 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_21_MA",
+        "report": "80 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_22_MA",
+        "report": "29 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_23_MA",
+        "report": "14 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_24_MA",
+        "report": "Few microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_25_MA",
+        "report": "67 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_26_MA",
+        "report": "62 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_27_MA",
+        "report": "106 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_28_MA",
+        "report": "23 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_29_MA",
+        "report": "26 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_30_MA",
+        "report": "22 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_31_MA",
+        "report": "28 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_32_MA",
+        "report": "13 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_33_MA",
+        "report": "126 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_34_MA",
+        "report": "44 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_35_MA",
+        "report": "42 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_36_MA",
+        "report": "43 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_37_MA",
+        "report": "27 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_38_MA",
+        "report": "34 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_39_MA",
+        "report": "119 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_40_MA",
+        "report": "35 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_41_MA",
+        "report": "13 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_42_MA",
+        "report": "10 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_43_MA",
+        "report": "Few microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_44_MA",
+        "report": "9 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_45_MA",
+        "report": "12 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_46_MA",
+        "report": "39 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_47_MA",
+        "report": "13 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_48_MA",
+        "report": "81 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_49_MA",
+        "report": "82 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_50_MA",
+        "report": "11 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_51_MA",
+        "report": "46 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_52_MA",
+        "report": "24 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_53_MA",
+        "report": "118 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    },
+    {
+        "image_id": "IDRiD_54_MA",
+        "report": "66 microaneurysms detected. No hemorrhages observed. No hard exudates detected. No soft exudates seen.",
+        "labels": {
+            "microaneurysms": true,
+            "hemorrhages": false,
+            "hard_exudates": false,
+            "soft_exudates": false
+        }
+    }
+]
